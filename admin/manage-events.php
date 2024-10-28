@@ -26,7 +26,7 @@ $_SESSION['delmsg']="Event deleted";
 
 <head>
 
-    <title>Eventify | Manage Sponsers</title>
+    <title>Eventify | Manage Events</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
