@@ -39,7 +39,7 @@ $_SESSION['delmsg']="Sponser deleted";
 
 <head>
 
-    <title>EMS | Manage Users</title>
+    <title>EMS | Manage Booking</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
